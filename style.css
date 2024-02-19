@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+ header {
+    background-color: #7BCEFC;
+    padding: 20px;
+}
+a {
+    text-decoration: none;
+    color: #031927;
+    font-size: 30px;
+    padding: 25px;
+}
+.link-header {
+    font-size: 60px;
+}
+ nav {
+    padding-top: 20px;
+}
+h1 {
+    font-size: 60px;
+    color:#031927;
+    margin-left: 20px;
+}
+ul {
+    font-size: 20px;
+    color: #031927;
+}
+footer {
+    background-color: #031927;
+    padding: 20px;
+    
+}
+aside {
+    display:flex;
+    justify-content: center;
+}
+.link-text {
+    font-size: 20px;
+    padding: 0px;
+}
+h1 {
+    font-size: 60px;
+}
+p {
+    font-size:20px;
+}
+li {
+    font-size: 20px;
+}
